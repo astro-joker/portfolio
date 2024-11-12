@@ -435,7 +435,7 @@ nav .fas{
         margin:25px;        
     }
     nav ul .fas{
-        position: abosulte;
+        position: absolute;
         top: 25px;
         left: 25px;
         cursor: pointer;
